@@ -1,0 +1,188 @@
+{
+  "name": "KGR",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Gokulraj k",
+  "headerTaglineThree": "Devops Engineer",
+  "headerTaglineFour": " based in Tamil nadu, India.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": false,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/Gokuloff46"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/gokulraj-kandhaswamy-449060334/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "/"
+    },
+    {
+      "id": "4",
+      "title": "Blog",
+      "link": "/"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:k.gokul.raj.official@gmail.com"
+    },
+    {
+      "id": "926c5e38-5fca-463a-8482-b81a9044a2bd",
+      "title": "contact number",
+      "link": "tel:9500986048"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Project One ",
+      "description": "Web Design",
+      "imageSrc": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/netflix-logo-with-some-netflix-shows-in-the-background-1.jpg?q=70&fit=crop&w=1140&h=&dpr=1",
+      "url": "https://github.com/Gokuloff46/Netflix-clone.git"
+    },
+    {
+      "id": "2",
+      "title": "Project Two",
+      "description": "Web Development",
+      "imageSrc": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/netflix-logo-with-some-netflix-shows-in-the-background-1.jpg?q=70&fit=crop&w=1140&h=&dpr=1",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "Project Three",
+      "description": "Design",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "Project Four",
+      "description": "Marketing",
+      "imageSrc": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/netflix-logo-with-some-netflix-shows-in-the-background-1.jpg?q=70&fit=crop&w=1140&h=&dpr=1",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "5",
+      "title": "Project Five",
+      "description": "Development",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "6",
+      "title": "Project Six",
+      "description": "Design & Development",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "9668fce8-a8ec-4029-a72f-faf9d74d5104",
+      "title": "New Project",
+      "description": "Web Design & Development",
+      "imageSrc": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/netflix-logo-with-some-netflix-shows-in-the-background-1.jpg?q=70&fit=crop&w=1140&h=&dpr=1",
+      "url": "http://chetanverma.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Devops",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    },
+    {
+      "id": "4bbe8833-9770-4e4d-b803-f18d1f3b5ed2",
+      "title": "New Service",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+      "id": "132dbc12-4e9f-430f-abc6-6b09fa2d2635",
+      "title": "New Service",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    }
+  ],
+  "aboutpara": "I'm a passionate IT professional with over 1 year of experience as a DevOps Engineer, skilled in automating deployments and managing CI/CD pipelines. I also bring hands-on knowledge as a System Administrator, with solid expertise in hardware, networking, and server management. Additionally, I’ve contributed 6 months as a volunteer Cloud Engineer, deepening my skills in cloud services and infrastructure as code. My diverse background gives me a holistic view of modern IT ecosystems.\n",
+  "resume": {
+    "tagline": "👋  I'm a devops  engineer",
+    "description": "I'm a passionate IT professional with over 1 year of experience as a DevOps Engineer, skilled in automating deployments and managing CI/CD pipelines. I also bring hands-on knowledge as a System Administrator, with solid expertise in hardware, networking, and server management. Additionally, I’ve contributed 6 months as a volunteer Cloud Engineer, deepening my skills in cloud services and infrastructure as code. My diverse background gives me a holistic view of modern IT ecosystems.\n",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      }
+    ],
+    "education": [
+      {
+        "id": "1",
+        "universityName": "University X",
+        "universityDate": "2016-2020",
+        "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      },
+      {
+        "id": "1752659954940",
+        "universityName": "awrfqw",
+        "universityDate": "awefrqwer",
+        "universityPara": "qwerfqweqr"
+      }
+    ],
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python",
+      "Go"
+    ],
+    "frameworks": [
+      "React",
+      "Typescript",
+      "NodeJs"
+    ],
+    "others": [
+      "Figma",
+      "AdobeXD",
+      "AWS"
+    ]
+  },
+  "freelance": [
+    {
+      "title": "demo1",
+      "client": "fgi",
+      "description": "demo",
+      "link": "efdsdf",
+      "date": "10.10.2030",
+      "id": "e69fd8d0-a8b4-4639-856a-6e7518f1ba01"
+    }
+  ],
+  "contact": {
+    "phone": "+911234567890"
+  },
+  "welcomeCard": {
+    "title": "Welcome! 👋",
+    "message": "Thanks for visiting my portfolio."
+  }
+}

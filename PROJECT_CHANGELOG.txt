@@ -1,0 +1,47 @@
+PROJECT CHANGELOG: New React Portfolio
+=====================================
+
+1. **Initial Setup & Fixes**
+   - Fixed all build/runtime errors and ESLint warnings.
+   - Ensured all main pages use server-side data loading for instant updates.
+   - Refactored API routes for portfolio, blog, and freelance data with local file persistence.
+
+2. **Edit Dashboard**
+   - `/edit` page allows editing of portfolio, resume, blog, and freelance data.
+   - Added error/success feedback to editors.
+   - Blog post manager and freelance manager integrated for easy content management.
+
+3. **Freelance System**
+   - Created `FreelanceCard` and `FreelanceManager` components.
+   - Added `/freelance` page to display gigs and services.
+   - Services are listed on the freelance page with a dropdown and hover effect.
+   - Services can only be edited from the `/edit` page for data integrity.
+   - Contact number and freelance navigation are now only in the header.
+
+4. **UI/UX Improvements**
+   - Modernized the freelance page with gradients, cards, icons, and interactive dropdowns.
+   - Added custom cursor support, respecting the `showCursor` setting from `portfolio.json`.
+   - Improved navigation: Freelance and Contact links/buttons are only in the header.
+   - Footer updated for a clean, professional look.
+   - Feedback card in the footer is perfectly aligned: on desktop, it appears to the right of the "LET'S WORK TOGETHER" heading with ample spacing; on mobile, it stacks below the heading for optimal UX.
+   - Added a small "Contact Number" button under the heading, which opens the phone dialer directly (tel: link) on all devices.
+   - Removed the "Schedule a call" button for a cleaner layout.
+   - Ensured all spacing and alignment are responsive and visually balanced across devices.
+   - Fixed dark/light mode compatibility for iPhone and Safari by updating ThemeProvider and adding a color-scheme meta tag in `_document.js`.
+   - Mobile menu now updates instantly when toggling dark/light mode for a seamless user experience.
+
+5. **Build & Docker**
+   - Added `.dockerignore` to exclude `node_modules` and other unnecessary files from Docker builds.
+   - Fixed Docker build errors related to file permissions and module imports.
+   - Fixed `atomDark` import in `ContentSection` to use CommonJS path for Next.js compatibility.
+   - Ensured all Next.js pages use `getServerSideProps` for instant data reflection.
+   - Updated Dockerfile to install all dependencies for build, then prune dev dependencies for a smaller production image.
+   - Dockerfile now fully supports the latest Next.js and project features, including dark/light mode and all UI/UX improvements.
+
+6. **Other Fixes & Enhancements**
+   - All changes are persistent and reflected immediately in production.
+   - Cleaned up code, removed unused buttons/links, and improved overall maintainability.
+
+---
+
+**This changelog summarizes all major changes and improvements made to the project from start to finish.**
