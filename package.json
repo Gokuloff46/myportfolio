@@ -40,16 +40,16 @@
     "eslint": "^8.57.1",
     "eslint-config-next": "12.1.6",
     "jest": "^30.0.5",
+    "jest-environment-jsdom": "^30.0.5",
     "jest-junit": "^16.0.0"
   },
   "jest": {
-    "testEnvironment": "jsdom",
-    "reporters": [
-      "default",
-      [ "jest-junit", { "outputDirectory": "test-results", "outputName": "junit.xml" } ]
-    ],
-    "setupFilesAfterEnv": [
-      "<rootDir>/jest.setup.js"
-    ]
-  }
+  "setupFilesAfterEnv": ["<rootDir>/jest.setup.js"],
+  "testEnvironment": "jest-environment-jsdom",
+  "reporters": [
+    "default",
+    ["jest-junit", { "outputDirectory": "test-results", "outputName": "junit.xml" }]
+  ]
+}
+
 }
